@@ -1,0 +1,39 @@
+# Visual Studio temporary files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+*.obj
+*.exe
+*.pdb
+*.idb
+*.log
+
+# Build directories
+Debug/
+Release/
+x64/ 
+x86/
+
+# CMake build files (if using CMake)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other generated files
+*.out
+*.o
+*.a
+*.lib
+*.dll
+*.so
+*.class
+
+# OS files
+Thumbs.db
+.DS_Store
